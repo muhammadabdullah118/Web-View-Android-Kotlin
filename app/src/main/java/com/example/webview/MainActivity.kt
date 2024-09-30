@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
 
         val wv_set = wv_youtube.settings
 
+        //comment for github
+
         wv_set.javaScriptEnabled = true
 
         wv_youtube.loadUrl("https://www.youtube.com/")
